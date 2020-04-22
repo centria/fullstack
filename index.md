@@ -16,6 +16,8 @@ This site is meant for **Full Stack Developent course** in [Centria University o
 
 You will be able to do this course without all the prerequisites, but it might require attendance in the lessons. Especially databases might need some hard work.
 
+It is adviced that you have at least some idea of databases, or participate in a database course while doing this course.
+
 ## Course instructions in Centria
 
 * To participate to this course, **read this page first.**
@@ -25,10 +27,11 @@ You will be able to do this course without all the prerequisites, but it might r
 ## More instructions
 
 * Read all of the instructions in this page, before opening the links in these: 
-* Go to the page [**https://fullstackopen.com/en/**](https://fullstackopen.com/en/)
+* Go to the course page [**https://fullstackopen.com/en/**](https://fullstackopen.com/en/)
 * Read this subpage: [**https://fullstackopen.com/en/faq**](https://fullstackopen.com/en/faq), or at least the first 10 questions and answers.
 * After you have read those, read this: [**https://fullstackopen.com/en/about**](https://fullstackopen.com/en/about)
 * You can start the course from here: [**https://fullstackopen.com/en#course-contents**](https://fullstackopen.com/en#course-contents) by going to Part0.
+* You can complete the course by completing all the parts in the course page.
 
 ## Even more instructions
 
@@ -47,4 +50,5 @@ You will be able to do this course without all the prerequisites, but it might r
 
 ## What next?
 
+* If you have never heard of databases and MongoDB, try this: [**https://university.mongodb.com/courses/M001/about**](https://university.mongodb.com/courses/M001/about), before doing this course. It might be a good idea anyways, to refresh your memory.
 * You can now start opening the links and reading the material from those, **IN ORDER**.
