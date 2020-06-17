@@ -42,11 +42,12 @@ It is adviced that you have at least some idea of databases, or participate in a
 ## Deadlines
 
 * The course does not (probably) have internal deadlines.
-* If you want to have credits to Centria, you have to have all the parts completed by **6.12.2020 at 23:59:59**.
+* If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by **6.12.2020 at 23:59:59**.
 
 ## How to get credits in Centria
 
 * Contact your course teacher. For R2SE (Softk20P), that would be Heikki Ahonen.
+* You will get 8 credits by doing the parts from 0 to 8. Part 9 is voluntary, but highly recommended.
 
 ## What's next?
 
