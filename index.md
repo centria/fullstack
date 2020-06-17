@@ -22,7 +22,7 @@ It is adviced that you have at least some idea of databases, or participate in a
 
 * To participate to this course, **read this page first.**
 * *READ EVERYTHING IN THIS PAGE, BEFORE OPENING ANY LINKS.*
-* After you have *read* all the instructions, *follow* the instructions **one by one**.
+* After you have *read* **all** the instructions, *follow* the instructions **one by one**.
 
 ## More instructions
 
@@ -36,7 +36,7 @@ It is adviced that you have at least some idea of databases, or participate in a
 ## Even more instructions
 
 * I assume you have read everything so far, and are still on this page.
-* When you register to the task submission system in the course, **use your centria email**, if you want to get the course credits in Centria!
+* When you register to the task submission system in the course, **use your Centria email**, if you want to get the course credits in Centria!
 * **ONLY CENTRIA EMAIL IS VALID, IF YOU WANT CREDITS TO CENTRIA.**
 
 ## Deadlines
@@ -46,9 +46,13 @@ It is adviced that you have at least some idea of databases, or participate in a
 
 ## How to get credits in Centria
 
-* Contact your course teacher.
+* Contact your course teacher. For R2SE (Softk20P), that would be Heikki Ahonen.
 
-## What next?
+## What's next?
 
+This part is the exception to the rule. These links should be opened before starting the actual course.
+
+* If you haven't done any web development before, start with these exercises from another University of Helsinki course: [**https://tkt-lapio.github.io/websites/**](https://tkt-lapio.github.io/websites/). This will give you a little idea of how HTML works, at least, and how web pages have been done for ages.
+* Also read this [**https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) to get some information about MVC, a web-design for the ages. You can also watch a YouTube-video about it, something like this: [**https://www.youtube.com/watch?v=DUg2SWWK18I**](https://www.youtube.com/watch?v=DUg2SWWK18I).
 * If you have never heard of databases and MongoDB, try this: [**https://university.mongodb.com/courses/M001/about**](https://university.mongodb.com/courses/M001/about), before doing this course. It might be a good idea anyways, to refresh your memory.
 * You can now start opening the links and reading the material from those, **IN ORDER**.
