@@ -53,7 +53,7 @@ It is adviced that you have at least some idea of databases, or participate in a
 
 This part is the exception to the rule. These links should be opened before starting the actual course.
 
-* If you haven't done any web development before, start with these exercises from another University of Helsinki course: [**https://tkt-lapio.github.io/websites/**](https://tkt-lapio.github.io/websites/). This will give you a little idea of how HTML works, at least, and how web pages have been done for ages.
+* If you haven't done any web development before, start with these exercises from another University of Helsinki course: [**https://tkt-lapio.github.io/websites/**](https://tkt-lapio.github.io/websites/). This will give you a little idea of how HTML works, at least, and how web pages have been done for ages. *You do not have to submit or return this part!* This is only for your own good.
 * Also read this [**https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) to get some information about MVC, a web-design for the ages. You can also watch a YouTube-video about it, something like this: [**https://www.youtube.com/watch?v=DUg2SWWK18I**](https://www.youtube.com/watch?v=DUg2SWWK18I).
 * If you have never heard of databases and MongoDB, try this: [**https://university.mongodb.com/courses/M001/about**](https://university.mongodb.com/courses/M001/about), before doing this course. It might be a good idea anyways, to refresh your memory.
 * You can now start opening the links and reading the material from those, **IN ORDER**.
