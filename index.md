@@ -55,9 +55,10 @@ It is adviced that you have at least some idea of databases, or participate in a
 
 ## How to get credits in Centria
 
-* Contact your course teacher, probably.
-  * Send an email (probably to heikki . ahonen at centria . fi) *from your Centria email address*. In the topic include *Fullstack credits*, and in the message *the url to the repository you used on the course*.
+* Contact the course teacher.
+  * Send an email (to heikki . ahonen at centria . fi) from *your Centria email address*. In the topic include the words *"Fullstack credits"*, and in the message *the url to the repository you used on the course*.
 * You will get 8 credits by doing the parts from 0 to 8. Part 9 is voluntary, but *highly recommended* and very useful.
+* On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
 ## Where to begin?
 
