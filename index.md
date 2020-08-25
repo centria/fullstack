@@ -47,14 +47,17 @@ It is adviced that you have at least some idea of databases, or participate in a
 ## Deadlines
 
 * The course does not have internal deadlines, but it is adviced to do the parts during the course weeks. Doing all at once is not reasonable or sane.
-* If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by **6.12.2020 at 23:59:59**. 
-  * Part 9 is *highly recommended*, but does not need to meet the deadline.
+* If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by:
+  * **6.12.2020 at 23:59:59**. 
+  * **28.2.2021 at 23:59:59**. 
+  * TBA
+* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 6.12.2020. If you submit your completion after that, the course will be credited on the next possible date on the list.
 
 ## How to get credits in Centria
 
 * Contact your course teacher, probably.
   * Send an email (probably to heikki . ahonen at centria . fi) *from your Centria email address*. In the topic include *Fullstack credits*, and in the message *the url to the repository you used on the course*.
-* You will get 8 credits by doing the parts from 0 to 8. Part 9 is voluntary, but highly recommended.
+* You will get 8 credits by doing the parts from 0 to 8. Part 9 is voluntary, but *highly recommended* and very useful.
 
 ## Where to begin?
 
