@@ -36,7 +36,7 @@ It is adviced that you have at least some idea of databases, or participate in a
 * Read this subpage: [**https://fullstackopen.com/en/faq**](https://fullstackopen.com/en/faq), or at least the first 10 questions and answers.
 * After you have read those, read this: [**https://fullstackopen.com/en/about**](https://fullstackopen.com/en/about)
 * You can start the course from here: [**https://fullstackopen.com/en#course-contents**](https://fullstackopen.com/en#course-contents) by going to Part0.
-* You can complete the course by completing all the parts in the course page.
+* You can complete the course by completing all the parts (or at least 0-8) in the course page.
 
 ## Even more instructions
 
@@ -49,7 +49,8 @@ It is adviced that you have at least some idea of databases, or participate in a
 * The course does not have internal deadlines, but it is adviced to do the parts during the course weeks. Doing all at once is not reasonable or sane.
 * If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by:
   * **6.12.2020 at 23:59:59**. 
-  * **28.2.2021 at 23:59:59**. 
+  * **9.1.2021 at 23:59:59**. 
+  * **28.2.2021 at 23:59:59** (pending). 
   * TBA
 * The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 6.12.2020. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
 
@@ -58,6 +59,7 @@ It is adviced that you have at least some idea of databases, or participate in a
 * Contact the course teacher.
   * Send an email (to heikki . ahonen at centria . fi) from *your Centria email address*. In the topic include the words *"Fullstack credits"*, and in the message *the url to the repository you used on the course*.
 * You will get 8 credits by doing the parts from 0 to 8. Part 9 is voluntary, but *highly recommended* and very useful.
+* For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
 ## Where to begin?
