@@ -51,7 +51,7 @@ It is adviced that you have at least some idea of databases, or participate in a
   * **6.12.2020 at 23:59:59**. 
   * **28.2.2021 at 23:59:59**. 
   * TBA
-* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 6.12.2020. If you submit your completion after that, the course will be credited on the next possible date on the list.
+* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 6.12.2020. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
 
 ## How to get credits in Centria
 
