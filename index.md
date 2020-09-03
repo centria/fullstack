@@ -41,8 +41,8 @@ It is adviced that you have at least some idea of databases, or participate in a
 ## Even more instructions
 
 * I assume you have read everything so far, and are still on this page.
-* When you register to the task submission system in the course, **use your Centria email**, if you want to get the course credits in Centria!
-* **ONLY CENTRIA EMAIL IS VALID, IF YOU WANT CREDITS TO CENTRIA.**
+* When you register to the task submission system in the course, you need to login with your GitHub account.
+  * A GitHub account is required to complete the tasks on the course, so it is compulsory to have one.
 
 ## Deadlines
 
@@ -57,8 +57,15 @@ It is adviced that you have at least some idea of databases, or participate in a
 ## How to get credits in Centria
 
 * Contact the course teacher.
-  * Send an email (to heikki . ahonen at centria . fi) from *your Centria email address*. In the topic include the words *"Fullstack credits"*, and in the message *the url to the repository you used on the course*.
-* You will get 8 credits by doing the parts from 0 to 8. Part 9 is voluntary, but *highly recommended* and very useful.
+  * Send an email (to heikki . ahonen at centria . fi) from *your Centria email address*. 
+    * In the topic include the words *"Fullstack credits"*
+    * In the message include the *url to the repository (repositories) you used on the course*.
+      * They need to be public, or access rights need to be given to GitHub user *HeikkiHei*.
+    * In the message include the *unique url of your course certificate*.
+      * You can get the certificate after you have completed the course.
+    * Remember to sign your email with your name, as well.
+* You will get 8 credits by doing the parts from 0 to 8. 
+  * Parts 9 and 10 are voluntary, but *highly recommended* and very useful.
 * For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
