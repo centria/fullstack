@@ -10,7 +10,7 @@ nav_order: 1
 
 *The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data."*
 
-This site is meant for **Full Stack Developent course** in [Centria University of Applied Sciences](https://web.centria.fi/en). The course material is in this [**Full Stack Open course**](https://fullstackopen.com/en), by University of Helsinki. The quotations are from that course page.
+This site is meant for **Full Stack Developent course** in [Centria University of Applied Sciences](https://web.centria.fi/en){:target="_blank"}. The course material is in this [**Full Stack Open course**](https://fullstackopen.com/en), by University of Helsinki. The quotations are from that course page.
 
 
 ## Prerequisites
