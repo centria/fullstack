@@ -54,6 +54,16 @@ It is adviced that you have at least some idea of databases, or participate in a
   * TBA
 * The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 6.12.2020. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
 
+## Support and Help
+
+If you want help with the exercises:
+
+*"You can discuss the course and related topics in our dedicated group on Telegram: [https://t.me/fullstackcourse](https://t.me/fullstackcourse). Please join the conversation!"*
+
+In the channel you can ask and give help to/from your peers, as well as the course instructors.
+
+Telegram requires registeration with a valid telephone number which can receive SMS-messages.
+
 ## How to get credits in Centria
 
 * Contact the course teacher.
