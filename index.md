@@ -58,9 +58,9 @@ It is adviced that you have at least some idea of databases, or participate in a
 
 If you want help with the exercises:
 
-*"You can discuss the course and related topics in our dedicated group on Telegram: [https://t.me/fullstackcourse](https://t.me/fullstackcourse). Please join the conversation!"*
+*"You can discuss the course and related topics in our dedicated group on Telegram: [https://t.me/fullstackcourse](https://t.me/fullstackcourse). Please join the conversation!"* 
 
-In the channel you can ask and give help to/from your peers, as well as the course instructors.
+The channel is for the Fullstackopen course, and is not provided by Centria. In the channel you can ask and give help to/from your peers, as well as the course instructors.
 
 Telegram requires registeration with a valid telephone number which can receive SMS-messages.
 
