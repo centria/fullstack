@@ -77,6 +77,7 @@ Telegram requires registeration with a valid telephone number which can receive 
     * Remember to sign your email with your name, as well.
 * You will get 8 credits by doing the parts from 0 to 8. 
   * Parts 9 and 10 are voluntary, but *highly recommended* and very useful.
+  * You can still get credits for them, according to your certificate.
 * For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
