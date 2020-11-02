@@ -48,7 +48,8 @@ It is adviced that you have at least some idea of databases, or participate in a
 
 * The course does not have internal deadlines, but it is adviced to do the parts during the course weeks. Doing all at once is not reasonable or sane.
 * If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by:
-  * **6.12.2020 at 23:59:59**. 
+  * **6.12.2020 at 23:59:59**.
+  * **13.12.2020 at 23:59:59** *- Notice! Only R2SE!* 
   * **9.1.2021 at 23:59:59**. 
   * **28.2.2021 at 23:59:59** (pending). 
   * TBA
