@@ -97,4 +97,4 @@ This part is the exception to the rule. These links should be opened before star
 
 ## Course feedback
 
-To complete the exercise 7.21 in the actual course page, you need to give feedback. In this anonymous form, you can give feedback for both the course content by University of Helsinki, as well as the teaching from Centria. The feedback is anonymous: LINK COMING SOON!
+To complete the exercise 7.21 in the actual course page, you need to give feedback. In this anonymous form, you can give feedback for both the course content by University of Helsinki, as well as the teaching from Centria. The feedback is anonymous: [FEEDBACK FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=FebKrBeNpUy_xcjXmcLcLhPBiTAlrItIgtlIN5-5av5URTBUNk83RzFGNzVDTTZYWVA1NTA0WUc3SC4u)
