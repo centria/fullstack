@@ -93,3 +93,8 @@ This part is the exception to the rule. These links should be opened before star
   * If you are doing or have done Relational Databases & SQL course, you will get enought database knowledge from said course.
   * The database used in this course **is not** relational or SQL, so you might still want to explore some basics of MongoDB.
 * You can now start opening the links and reading the material from those, **IN ORDER**.
+
+
+## Course feedback
+
+To complete the exercise 7.21 in the actual course page, you need to give feedback. In this anonymous form, you can give feedback for both the course content by University of Helsinki, as well as the teaching from Centria. The feedback is anonymous: LINK COMING SOON!
