@@ -70,14 +70,17 @@ Telegram requires registeration with a valid telephone number which can receive 
 * Contact the course teacher.
   * Send an email (to heikki . ahonen at centria . fi) from *your Centria email address*. 
     * In the topic include the words *"Fullstack credits"*
-    * In the message include the *url to the repository (repositories) you used on the course*.
+    * In the message include the *url to the repositories (at least 2 is done) you used on the course*.
       * They need to be public, or access rights need to be given to GitHub user *HeikkiHei*.
     * In the message include the *unique url of your course certificate*.
       * You can get the certificate after you have completed the course.
+      * Press the flag icon on the submission page of the course to get the certificate.
+        * Do not press the large button below them.
     * Remember to sign your email with your name, as well.
-* You will get 8 credits by doing the parts from 0 to 8. 
-  * Parts 9 and 10 are voluntary, but *highly recommended* and very useful.
-  * You can still get credits for them, according to your certificate.
+* You will get 8 credits by doing the parts from 0 to 7.  
+  * Your certificate will show 7 credits. It has been agreed that in Centria you will still get 8.
+  * Parts 8, 9 and 10 are voluntary, but *highly recommended* and very useful.
+  * You can still get credits for them, according to the course rules.
 * For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
