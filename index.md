@@ -21,9 +21,9 @@ This site is meant for **Full Stack Developent course** in [Centria University o
 
 You will be able to do this course without all the prerequisites, but it might require attendance in the lessons. Especially databases might need some hard work.
 
-It is adviced that you have at least some idea of **databases**, or participate in a database course while doing this course. Such a course is for example [https://centria.fi/courses/databases](https://centria.fi/courses/databases).
+It is adviced that you have at least some idea of **databases**, or participate in a database course while doing this course. Such a course is for example [https://centria.fi/courses/databases](https://centria.fi/courses/databases){:target="_blank"}.
 
-You should also know how to use **GitHub**, and preferably **command line**. If these are new to you, check out [https://centria.fi/courses/console](https://centria.fi/courses/console).
+You should also know how to use **GitHub**, and preferably **command line**. If these are new to you, check out [https://centria.fi/courses/console](https://centria.fi/courses/console){:target="_blank"}.
 
 ## Course instructions in Centria
 
@@ -34,10 +34,10 @@ You should also know how to use **GitHub**, and preferably **command line**. If 
 ## More instructions
 
 * Read all of the instructions in this page, before opening the links in these: 
-* Go to the course page [**https://fullstackopen.com/en/**](https://fullstackopen.com/en/)
-* Read this subpage: [**https://fullstackopen.com/en/faq**](https://fullstackopen.com/en/faq), or at least the first 10 questions and answers.
-* After you have read those, read this: [**https://fullstackopen.com/en/about**](https://fullstackopen.com/en/about)
-* You can start the course from here: [**https://fullstackopen.com/en#course-contents**](https://fullstackopen.com/en#course-contents) by going to Part0.
+* Go to the course page [**https://fullstackopen.com/en/**](https://fullstackopen.com/en/){:target="_blank"}
+* Read this subpage: [**https://fullstackopen.com/en/faq**](https://fullstackopen.com/en/faq){:target="_blank"}, or at least the first 10 questions and answers.
+* After you have read those, read this: [**https://fullstackopen.com/en/about**](https://fullstackopen.com/en/about){:target="_blank"}
+* You can start the course from here: [**https://fullstackopen.com/en#course-contents**](https://fullstackopen.com/en#course-contents){:target="_blank"} by going to Part0.
 * You can complete the course by completing all the parts (or at least 0-8) in the course page.
 
 ## Even more instructions
@@ -61,7 +61,7 @@ You should also know how to use **GitHub**, and preferably **command line**. If 
 
 If you want help with the exercises:
 
-*"You can discuss the course and related topics in our dedicated group on Telegram: [https://t.me/fullstackcourse](https://t.me/fullstackcourse). Please join the conversation!"* 
+*"You can discuss the course and related topics in our dedicated group on Telegram: [https://t.me/fullstackcourse](https://t.me/fullstackcourse){:target="_blank"}. Please join the conversation!"* 
 
 The channel is for the Fullstackopen course, and is not provided by Centria. In the channel you can ask and give help to/from your peers, as well as the course instructors.
 
@@ -90,11 +90,11 @@ Telegram requires registeration with a valid telephone number which can receive 
 
 This part is the exception to the rule. These links should be opened before starting the actual course. **These are voluntary** and *are not submitted anywhere*, but do help and are a good intro to or recap of basics.
 
-* If you haven't done any web development before, start with these exercises from another University of Helsinki course: [**https://tkt-lapio.github.io/websites/**](https://tkt-lapio.github.io/websites/). 
+* If you haven't done any web development before, start with these exercises from another University of Helsinki course: [**https://tkt-lapio.github.io/websites/**](https://tkt-lapio.github.io/websites/){:target="_blank"}. 
   * This will give you a little idea of how HTML works, at least, and how web pages have been done for ages.
-* Also read this [**https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) to get some information about MVC, a web-design for the ages. 
-  * You can also watch a YouTube-video about it, something like this: [**https://www.youtube.com/watch?v=DUg2SWWK18I**](https://www.youtube.com/watch?v=DUg2SWWK18I).
-* If you have never heard of databases and MongoDB, try this: [**https://university.mongodb.com/courses/M001/about**](https://university.mongodb.com/courses/M001/about), before doing this course. It might be a good idea anyways, to refresh your memory.
+* Also read this [**https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller){:target="_blank"} to get some information about MVC, a web-design for the ages. 
+  * You can also watch a YouTube-video about it, something like this: [**https://www.youtube.com/watch?v=DUg2SWWK18I**](https://www.youtube.com/watch?v=DUg2SWWK18I){:target="_blank"}.
+* If you have never heard of databases and MongoDB, try this: [**https://university.mongodb.com/courses/M001/about**](https://university.mongodb.com/courses/M001/about){:target="_blank"}, before doing this course. It might be a good idea anyways, to refresh your memory.
   * If you are doing or have done Relational Databases & SQL course, you will get enought database knowledge from said course.
   * The database used in this course **is not** relational or SQL, so you might still want to explore some basics of MongoDB.
 * You can now start opening the links and reading the material from those, **IN ORDER**.
@@ -102,4 +102,4 @@ This part is the exception to the rule. These links should be opened before star
 
 ## Course feedback
 
-To complete the exercise 7.21 in the actual course page, you need to give feedback. In this anonymous form, you can give feedback for both the course content by University of Helsinki, as well as the teaching from Centria. The feedback is anonymous: [FEEDBACK FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=FebKrBeNpUy_xcjXmcLcLhPBiTAlrItIgtlIN5-5av5URTBUNk83RzFGNzVDTTZYWVA1NTA0WUc3SC4u)
+To complete the exercise 7.21 in the actual course page, you need to give feedback. In this anonymous form, you can give feedback for both the course content by University of Helsinki, as well as the teaching from Centria. The feedback is anonymous: [FEEDBACK FORM](https://forms.office.com/Pages/ResponsePage.aspx?id=FebKrBeNpUy_xcjXmcLcLhPBiTAlrItIgtlIN5-5av5URTBUNk83RzFGNzVDTTZYWVA1NTA0WUc3SC4u){:target="_blank"}
