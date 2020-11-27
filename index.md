@@ -21,7 +21,9 @@ This site is meant for **Full Stack Developent course** in [Centria University o
 
 You will be able to do this course without all the prerequisites, but it might require attendance in the lessons. Especially databases might need some hard work.
 
-It is adviced that you have at least some idea of databases, or participate in a database course while doing this course. Such a course is for example [https://centria.fi/courses/databases](https://centria.fi/courses/databases).
+It is adviced that you have at least some idea of **databases**, or participate in a database course while doing this course. Such a course is for example [https://centria.fi/courses/databases](https://centria.fi/courses/databases).
+
+You should also know how to use **GitHub**, and preferably **command line**. If these are new to you, check out [https://centria.fi/courses/console](https://centria.fi/courses/console).
 
 ## Course instructions in Centria
 
