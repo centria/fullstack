@@ -76,6 +76,7 @@ Telegram requires registeration with a valid telephone number which can receive 
       * They need to be public, or access rights need to be given to GitHub user *HeikkiHei*.
     * In the message include the *unique url of your course certificate*.
       * You can get the certificate after you have completed the course.
+      * You have to fill in your name to the system, and two flag icons will appear on your submission page.
       * Press the flag icon on the submission page of the course to get the certificate.
         * Do not press the large button below them.
     * Remember to sign your email with your name, as well.
