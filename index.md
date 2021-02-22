@@ -10,7 +10,7 @@ nav_order: 1
 
 *The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data."*
 
-This site is meant for **Full Stack Developent course** in [Centria University of Applied Sciences](https://web.centria.fi/en){:target="_blank"}. The course material is in this [**Full Stack Open course**](https://fullstackopen.com/en), by University of Helsinki. The quotations are from that course page.
+This site is meant for **Full Stack Developent course** in [Centria University of Applied Sciences](https://web.centria.fi/en){:target="_blank"}. The course material is in this [**Full Stack Open course**](https://fullstackopen.com/en){:target="_blank"}, by University of Helsinki. The quotations are from that course page.
 
 
 ## Prerequisites
@@ -85,6 +85,7 @@ Telegram requires registeration with a valid telephone number which can receive 
     * For H2C, you will get 8 credits by doing parts 0 to 6 and giving course feedback, and the certificate will show 6 credits. 
   * Parts 8, 9, 10 and 11 are voluntary, but *highly recommended* and very useful.
   * You can still get credits for them, according to the course rules.
+  * For less than 8 credits we follow the grading table found at [https://fullstackopen.com/en/part0/general_info#grading](https://fullstackopen.com/en/part0/general_info#grading){:target="_blank"}.
 * For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
