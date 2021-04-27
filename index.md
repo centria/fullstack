@@ -50,12 +50,11 @@ You should also know how to use **GitHub**, and preferably **command line**. If 
 
 * The course does not have internal deadlines, but it is adviced to do the parts during the course weeks. Doing all at once is not reasonable or sane.
 * If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by:
-  * **6.12.2020 at 23:59:59**.
-  * **13.12.2020 at 23:59:59** *- Notice! Only R2SE!* 
-  * **9.1.2021 at 23:59:59**. 
-  * **28.2.2021 at 16:00:00**. 
+  * **22.8.2022 at 23:59:59**.
+  * **19.9.2022 at 23:59:59**.
+  * **17.10.2022 at 23:59:59**.
   * TBA
-* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 6.12.2020. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
+* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 18.8.2021. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
 
 ## Support and Help
 
@@ -80,12 +79,8 @@ Telegram requires registeration with a valid telephone number which can receive 
       * Press the flag icon on the submission page of the course to get the certificate.
         * Do not press the large button below them.
     * Remember to sign your email with your name, as well.
-* You will get 8 credits by doing the parts from 0 to 7.  
-  * Your certificate will show 7 credits. It has been agreed that in Centria you will still get 8.
-    * For H2C, you will get 8 credits by doing parts 0 to 6 and giving course feedback, and the certificate will show 6 credits. 
-  * Parts 8, 9, 10 and 11 are voluntary, but *highly recommended* and very useful.
-  * You can still get credits for them, according to the course rules.
-  * For less than 8 credits we follow the grading table found at [https://fullstackopen.com/en/part0/general_info#grading](https://fullstackopen.com/en/part0/general_info#grading){:target="_blank"}.
+* You will get 8 credits by doing the parts from 0 to 8.  
+  * Other credit amounts, check [https://fullstackopen.com/en/part0/general_info#grading](https://fullstackopen.com/en/part0/general_info#grading){:target="_blank"}.
 * For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
