@@ -54,7 +54,7 @@ You should also know how to use **GitHub**, and preferably **command line**. If 
   * **19.9.2022 at 23:59:59**.
   * **17.10.2022 at 23:59:59**.
   * TBA
-* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 18.8.2021. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
+* The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 22.8.2021. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
 
 ## Support and Help
 
