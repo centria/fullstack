@@ -79,8 +79,8 @@ Telegram requires registeration with a valid telephone number which can receive 
       * Press the flag icon on the submission page of the course to get the certificate.
         * Do not press the large button below them.
     * Remember to sign your email with your name, as well.
-* You will get 8 credits by doing the parts from 0 to 8.  
-  * Other credit amounts, check [https://fullstackopen.com/en/part0/general_info#grading](https://fullstackopen.com/en/part0/general_info#grading){:target="_blank"}.
+* You will get 8 credits by doing the parts from 0 to 8.
+  * The credits are given according to the grading instructions in the Helsinki University course site. Check [https://fullstackopen.com/en/part0/general_info#grading](https://fullstackopen.com/en/part0/general_info#grading){:target="_blank"}.
 * For Centria credits, you *DO NOT* need to do the Open University Exam, but you are welcome to do so.
 * On the University of Helsinki page are instructions of how to get credits through Open University of Helsinki. If you have credits through that, send an email and let's see compensatory credits.
 
