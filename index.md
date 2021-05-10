@@ -50,9 +50,9 @@ You should also know how to use **GitHub**, and preferably **command line**. If 
 
 * The course does not have internal deadlines, but it is adviced to do the parts during the course weeks. Doing all at once is not reasonable or sane.
 * If you want to have credits to Centria, you have to have all the parts (or at least parts 0 to 8) completed by:
-  * **22.8.2022 at 23:59:59**.
-  * **19.9.2022 at 23:59:59**.
-  * **17.10.2022 at 23:59:59**.
+  * **22.8.2021 at 23:59:59**.
+  * **19.9.2021 at 23:59:59**.
+  * **17.10.2021 at 23:59:59**.
   * TBA
 * The course is graded only on these dates. If you submit your completion before the first one, the course will be credited on 22.8.2021. If you submit your completion after a date on the list, the course will be credited on the next possible date on the list.
 
